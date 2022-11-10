@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # classes/tdd.rb
 class Tests
   def reverse_string(str)
