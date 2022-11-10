@@ -23,7 +23,7 @@ class Tests
     elsif (num % 5).zero?
       'Buzz'
     else
-      num 
+      num
     end
   end
 end
